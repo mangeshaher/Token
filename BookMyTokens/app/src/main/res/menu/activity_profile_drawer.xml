@@ -12,10 +12,6 @@
                 android:icon="@drawable/ic_visibility_black_48dp"
                 android:title="ViewTokens" />
             <item
-                android:id="@+id/expenditure"
-                android:icon="@drawable/ic_attach_money_black_48dp"
-                android:title="Expenditure" />
-            <item
                 android:id="@+id/logout"
                 android:icon="@drawable/ic_exit_to_app_black_24dp"
                 android:title="Logout!" />
